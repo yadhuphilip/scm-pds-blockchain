@@ -1,7 +1,7 @@
 
 Sooraj S <sooraj.s1620@saintgits.org>
 Sandra Rachel Sandosh <rachelsandra1030@gmail.com>
-Fayas Vanm <fayasvm5@gmail.com>
+Fayas Vm <fayasvm5@gmail.com>
 Yadhu Philip <yadhuphilip@gmail.com>
 
 E-PDS is a basic example of a distributed supply-chain
